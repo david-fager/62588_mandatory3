@@ -1,0 +1,8 @@
+> Danmarks Tekniske Universitet
+> 62588 - Operativsystemer
+> Mandatory 3
+> s185120
+
+The sources used to make this assignment:
+Alle files, including the guide, from the Mandatory Assignment 3 folder on DTU Inside under course 62588 and filesharing.
+https://github.com/ArmandasRokas/dtu_notes/wiki/ass3_manual
