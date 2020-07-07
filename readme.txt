@@ -3,6 +3,8 @@
 > Mandatory 3
 > s185120
 
+The original code in this project, is made by the lecturer in the 62588 course.
+
 1. How to use the program.
 # 1. Open or download and open your favorite UNIX terminal.
 # 2. Navigate via the command: 'cd <path>' to the path where you downloaded the program folder to.
