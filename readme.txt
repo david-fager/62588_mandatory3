@@ -3,7 +3,7 @@
 > Mandatory 3
 > s185120
 
-The original code in this project, is made by the lecturer in the 62588 course.
+The original code in this project, is made by the lecturer of DTU's '62588 Operativsystemer E19' course.
 
 1. How to use the program.
 # 1. Open or download and open your favorite UNIX terminal.
